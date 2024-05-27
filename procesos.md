@@ -1,6 +1,6 @@
 # PROCESOS ASOCIADOS A WSL
 
-![Procesos](img/procesos.PNG)
+<img src="img/procesos.PNG" alt="procesos" width="900px">
 
 > Cuando se utiliza Windows Subsystem For Linux para evitar la sobrecarga de una máquina virtual tradicional, este tiene asociados varios procesos para su funcionamiento que son los siguientes:
 
