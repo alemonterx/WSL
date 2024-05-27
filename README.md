@@ -6,7 +6,7 @@
 
 <img src="img/portada.png" alt="WSL" width="900px">
 
-> En este proyecto hablaré un poco sobre esta capa de compatibilidad desarrolLada por Microsoft
+> En este proyecto hablaré un poco sobre esta capa de compatibilidad desarrollada por Microsoft
 
 ## ÍNDICE
 1. Introducción
