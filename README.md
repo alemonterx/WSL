@@ -9,9 +9,9 @@
 > En este proyecto hablaré un poco sobre esta capa de compatibilidad desarrolLada por Microsoft
 
 ## ÍNDICE
-1. [Introducción](introduccion.md)
+1. Introducción
    
-   * ¿Qué es Windows Subsystem For Linux?
+   * [¿Qué es Windows Subsystem For Linux?](introduccion.md)
      
 2. [Instalación mediante PowerShell](instalacion.md)
      
