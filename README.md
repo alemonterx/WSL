@@ -1,6 +1,6 @@
-[![Forks proyecto](https://img.shields.io/badge/Forks-purple)](https://github.com/alemonterx/paquetesrpm/forks)
-[![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/alemonterx/paquetesrpm/activity)
-[![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/paquetesrpm/graphs/contributors)
+[![Forks proyecto](https://img.shields.io/badge/Forks-purple)](https://github.com/alemonterx/wsl/forks)
+[![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/alemonterx/wsl/activity)
+[![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/alemonterx/wsl/graphs/contributors)
 
 # WINDOWS SUBSYSTEM FOR LINUX
 
