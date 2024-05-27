@@ -15,10 +15,10 @@
      
 2. [Instalación mediante PowerShell](instalacion.md)
      
-3. [Instalación de distribución Debian y Ubuntu](distribuciones.md)
+3. Instalación de distribución Debian y Ubuntu
    
-   * Debian
-   * Ubuntu
+   * [Debian](debian.md)
+   * [Ubuntu](ubuntu.md)
      
 7. [Procesos asociados a WSL](procesos.md)
    
