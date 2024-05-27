@@ -2,7 +2,7 @@
 Para la instalación lo único que tendremos que hacer será abrir una línea de comandos PowerShell como administrador y seguir los siguientes pasos:
 
 ## PASO 1:
-![paso1](img/1.png)
+![paso1](img/1.PNG)
 > Aquí hice un `echo` para demostrar que soy yo y es mi máquina.
 
 ## PASO 2:
